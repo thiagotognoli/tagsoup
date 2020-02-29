@@ -1,4 +1,7 @@
+.history
+.m2
 build
 dist
 tmp
 docs
+target
